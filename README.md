@@ -9,3 +9,5 @@ Farol para verificar o atingimento da meta:
 
 ![image](https://github.com/user-attachments/assets/9a7e0e56-5953-479a-9124-102bdd85f17a)
 
+
+
