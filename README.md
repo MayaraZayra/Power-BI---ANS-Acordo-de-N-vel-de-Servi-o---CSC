@@ -5,7 +5,7 @@ O objetivo desse documento é acompanhar o ANS (Acordo de Nível de Serviços) d
 
 ![image](https://github.com/user-attachments/assets/cd016553-8bae-4476-af26-d97c0fc8bc82)
 
-Farol para verificar o atingimento da meta:
+Farol para verificar o atingimento da meta (Valores confidenciais ocultados)
 
 ![image](https://github.com/user-attachments/assets/9a7e0e56-5953-479a-9124-102bdd85f17a)
 
